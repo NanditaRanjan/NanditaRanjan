@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nandita Ranjan</h1>
+<h1 align="center">Hi👋, I'm Nandita Ranjan</h1>
 - 🌱 I’m currently learning *Web Development*
 
 - 👨‍💻 All of my projects are available at [https://nanditaranjan.vercel.app/](https://nanditaranjan.vercel.app/)
